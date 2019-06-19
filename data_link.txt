@@ -1,2 +1,3 @@
 BSD300 dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
 Set14 test dataset: https://sites.google.com/site/romanzeyde/research-interests
+DIV2K dataset: https://data.vision.ee.ethz.ch/cvl/DIV2K/
